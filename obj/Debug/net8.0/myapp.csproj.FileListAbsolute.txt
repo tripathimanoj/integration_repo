@@ -12,3 +12,4 @@ C:\Users\manojtripathi\OneDrive - SourceMash Technologies Pvt Ltd\Desktop\myapp\
 C:\Users\manojtripathi\OneDrive - SourceMash Technologies Pvt Ltd\Desktop\myapp\obj\Debug\net8.0\myapp.pdb
 C:\Users\manojtripathi\OneDrive - SourceMash Technologies Pvt Ltd\Desktop\myapp\obj\Debug\net8.0\myapp.genruntimeconfig.cache
 C:\Users\manojtripathi\OneDrive - SourceMash Technologies Pvt Ltd\Desktop\myapp\obj\Debug\net8.0\ref\myapp.dll
+C:\Users\manojtripathi\OneDrive - SourceMash Technologies Pvt Ltd\Desktop\myapp\obj\Debug\net8.0\myapp.sourcelink.json
